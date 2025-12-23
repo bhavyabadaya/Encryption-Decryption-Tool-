@@ -6,8 +6,8 @@ The Caesar cipher is one of the simplest and one of the earliest known encryptio
 
 ## Team Member
 
-Student Name: Bhavya Badaya			Roll No: 23CA2591010
-Student Name: Rajesh Jat				Roll No: 23CA2591040
+- Student Name: Bhavya Badaya			Roll No: 23CA2591010
+- Student Name: Rajesh Jat				Roll No: 23CA2591040
 
 
 
